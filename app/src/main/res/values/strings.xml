@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="btn_maps">Ir a mis mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="text_menu">Nombre Lugar</string>
+    <string name="title_activity_main">Lugares más visitados\n</string>
+    <string name="title_name_menu">Santiago de Chile</string>
+</resources>
